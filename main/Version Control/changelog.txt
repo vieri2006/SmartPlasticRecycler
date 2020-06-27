@@ -1,0 +1,5 @@
+0.00 - Model kasar
+1.00 - Dibuat struktur Model dengan frame dan grid
+1.01 - ++ Fitur" options dari library
+2.00 - Perubahan Struktur menjadi modular dan Functional Programming, penggunaan ttk sebagai library modern 
+3.00 - Icon dan Gambar terpasang
